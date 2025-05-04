@@ -1,0 +1,23 @@
+# Executáveis
+*.exe
+*.out
+*.o
+
+# Binários Go
+main
+*.test
+
+# Diretórios gerados
+/vendor/
+bin/
+dist/
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
